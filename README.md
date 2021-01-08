@@ -14,7 +14,7 @@ Who's better than Gil Tene himself to describe what is HdrHistogram:
 
 ## Create an Histogram
 
-When creating a histogram instance, you must provide the minimum and maximum trackable values and the wanted number of precision digits. If you need to create a histogram to record latency between one millisecond and one minute `[1ms..1min]` with a precision of 0.01, use the following :
+When creating a histogram instance, you must provide the minimum and maximum trackable values and the wanted number of precision digits. If you need to create a histogram to record latency between one millisecond and one minute `[1ms..1min]` with a precision of 0.01, use the following:
 
 
 ```vala
